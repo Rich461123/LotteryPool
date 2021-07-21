@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkGray">#2C2F33</color>
+    <color name="firstBallColor">#FF595E</color>
+    <color name="secondBallColor">#FFCA3A</color>
+    <color name="thirdBallColor">#8AC926</color>
+    <color name="fourthBallColor">#1982C4</color>
+    <color name="fifthBallColor">#8C5383</color>
+    <color name="sixthBallColor">#6A4C93</color>
+</resources>
