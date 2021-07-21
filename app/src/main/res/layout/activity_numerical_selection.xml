@@ -91,8 +91,6 @@ tools:context=".numericalSelection">
             android:textColor="@color/black"
             android:textSize="25sp"
             android:textStyle="bold" />
-
-
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -101,6 +99,17 @@ tools:context=".numericalSelection">
         android:layout_marginTop="10dp"
         android:layout_marginBottom="32dp"
         android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/twoSectionBall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="X"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            />
         <Button
             android:id="@+id/buttonStart"
             android:layout_width="match_parent"
